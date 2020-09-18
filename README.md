@@ -1,13 +1,13 @@
-# Hack day: Mastermind challenge
-Hack day MasterMind game challenge, written in an unfamiliar language
+# Hack day: Mastermind challenge :brain:
+Hack day Mastermind game challenge, written in an unfamiliar language
 
-## Challenge
+## Challenge :sweat:
 Today, you will implement the game Mastermind.
 Easy? Sure, but did you already developed it in SQL? or Cobol?
 Also, for each version of the Mastermind, you will have to write an “How to write a Mastermind in XXX?” blog post.
 All these “How to” must be hosted in a Github page or in a Blog platform (WordPress, Jekyll, Drupal, etc.) that you will administrated per campus.
 
-Requirements
+:white_check_mark: Requirements
 * By group of 5~ students (you can regroup based on attendance) - but your evaluation will be as campus!
 * Each language can only be used once per campus - advice: take 10-20min at the beginning of the day to dispatch languages.
 * Each group must develop at least one Mastermind version - feel free to develop as more as you can - but don’t forget to help your peers!
@@ -16,7 +16,7 @@ Requirements
 * Only languages bellow are allowed for implementing the Mastermind
 * Make it fun!
 
-## How to Play
+## How to Play :video_game:
 * To play the game, the user will need to clone the program from this repository and will first need to have the Java Runtime Environment installed.
 * The first time the user is ready to play the game, they will need to compile the code.  In a Linux environment, this can be done with “javac main.java”
 * To run the game, the user can run the executable program with “java main”
