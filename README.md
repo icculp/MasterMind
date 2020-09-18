@@ -31,8 +31,8 @@ All these “How to” must be hosted in a Github page or in a Blog platform (Wo
 ---
 
 ## Authors :pencil2:
-* **Ian Culp** - icculp[https://github.com/icculp]
-* **Kelsie Merchant** - kmerchan[https://github.com/kmerchan]
-* **Lance Burklin** - lancewburklin[https://github.com/lancewburklin]
-* **Sean Taylor** - MadmanSilver[https://github.com/MadmanSilver]
-* **Viet Tran** - veeteeran[https://github.com/veeteeran]
+* **Ian Culp** - [icculp](https://github.com/icculp)
+* **Kelsie Merchant** - [kmerchan](https://github.com/kmerchan)
+* **Lance Burklin** - [lancewburklin](https://github.com/lancewburklin)
+* **Sean Taylor** - [MadmanSilver](https://github.com/MadmanSilver)
+* **Viet Tran** - [veeteeran](https://github.com/veeteeran)
