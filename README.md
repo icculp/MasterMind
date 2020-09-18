@@ -1,5 +1,5 @@
 # Hack day: Mastermind challenge :brain:
-Hack day Mastermind game challenge, written in an unfamiliar language
+Hack day Mastermind game challenge, written in an unfamiliar language :coffee:
 
 ## Challenge :sweat:
 Today, you will implement the game Mastermind.
@@ -27,3 +27,12 @@ All these “How to” must be hosted in a Github page or in a Blog platform (Wo
 * If the user has not guessed the code correctly, they will be told how their guess measured up to the secret code and how many tries they have left
 * If the user guesses the secret code, they will be given a win message!  If they run out of chances, they will get a message stating what the secret code is.
 * The user is prompted to see if they would like to play again.  The user is asked to enter y/n to play or exit.
+
+---
+
+## Authors :pencil2:
+* **Ian Culp** - icculp[https://github.com/icculp]
+* **Kelsie Merchant** - kmerchan[https://github.com/kmerchan]
+* **Lance Burklin** - lancewburklin[https://github.com/lancewburklin]
+* **Sean Taylor** - MadmanSilver[https://github.com/MadmanSilver]
+* **Viet Tran** - veeteeran[https://github.com/veeteeran]
