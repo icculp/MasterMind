@@ -75,7 +75,9 @@ public class Main {
 			
 			// Print result
 			if (samePlace != 4) {
-				System.out.printf("Positions: %d, Colors: %d, Tries left: %d\n", samePlace, sameColor, chances - 1);
+				System.out.printf("Correct colors in correct positions: %d\n", samePlace);
+				System.out.printf("Correct colors in wrong position: %d\n", sameColor);
+				System.out.printf("Tries left: %d\n", chances - 1);
 			} else {
 				break;
 			}
